@@ -5,3 +5,4 @@ From: iOS App Development with Swift Essential Training
 
 ![simulator screen shot 2015 11 10 8 02 41](https://cloud.githubusercontent.com/assets/12381283/11062044/75a84092-87e6-11e5-8892-ab4b54e0728b.png)
 ![simulator screen shot 2015 11 10 8 02 47](https://cloud.githubusercontent.com/assets/12381283/11062045/77224bd4-87e6-11e5-9ad1-5ba658233f92.png)
+![simulator screen shot 2015 11 10 8 02 47](https://cloud.githubusercontent.com/assets/12381283/11062045/77224bd4-87e6-11e5-9ad1-5ba658233f92.png)
